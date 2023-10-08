@@ -5,6 +5,7 @@ _This is just a suggested template for the README of your project, feel free to 
 - Name 1 (Project Lead)
 - Justin Kim
 - Albert Lee
+- Ricky Das
 
 ### Project Description
 Describe the goal of your project here.
