@@ -6,7 +6,6 @@ _This is just a suggested template for the README of your project, feel free to 
 - Justin Kim
 - Albert Lee
 - Ricky Das
--HI
 
 ### Project Description
 Describe the goal of your project here.
